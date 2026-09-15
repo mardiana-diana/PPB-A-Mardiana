@@ -1,3 +1,3 @@
 # Readme Mardiana
 
-project untuk mempelajari dasar penggunaan Git
+mardiana lagi belajar repository yang susah banget

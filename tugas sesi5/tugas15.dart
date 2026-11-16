@@ -1,0 +1,12 @@
+// void main() {
+//   // var angka = [1, 2, 3, 4];
+//   // var hasil = angka.map((item) {return item * 2;}).toList();
+//   // var angka = [1, 2, 3, 4];
+//   // var hasil = angka.map((item) => item * 2).toList();
+//   print(hasil);
+// }
+
+void main() {
+  var mahasiswa = ["Mardiana", "diki", "yeyen"];
+  mahasiswa.forEach((nama) => print("Halo, $nama!"));
+}
